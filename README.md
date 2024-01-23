@@ -114,3 +114,13 @@ https://docs.github.com/zh/code-security/dependabot/dependabot-version-updates/c
 `chore` 变更构建流程或辅助工具(比如更改测试环境) 
 
 `revert` 代码回退
+
+
+
+## repository templates
+
+![image-20231012145543594](README/image-20231012145543594.png)
+
+Template repositories let users generate new repositories with the same directory structure and files.        [Learn more about template repositories](https://docs.github.com/articles/creating-a-repository-from-a-template/).      
+
+在查看 template repository 时，开发者将看到全新的「Use this  template」按钮，点击此按钮即可立刻使用该代码库。你的所有 template  都可被传达到任意组织成员，你还可以在新项目创建页面获取曾经使用过的任意 template。
